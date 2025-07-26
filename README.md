@@ -13,10 +13,6 @@ The interface is clean, responsive, and user-friendly, with blue-white theme col
 * Responsive layout and minimalistic icons
 * Background illustration and icons included
 
-## 📱 Screenshots
-
-> Add screenshots here once deployed to emulator/device
-
 ## 📐 BMI Formula
 
 > BMI = weight (kg) / \[height (m)]²
