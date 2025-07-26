@@ -1,0 +1,28 @@
+name: bmi_calculator
+description: >
+  Basit ama şık bir BMI hesaplayıcı. Bu uygulama vücut kitle indeksinizi (BMI) hesaplamak
+  ve sonuçları kategorize etmek için Flutter ile geliştirildi.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  # Roboto ve diğer Google fontlarını kolayca kullanmak için
+  google_fonts: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# Flutter için varlıkların ve konfigürasyonların listesi
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/weight_icon.png
+    - assets/images/height_icon.png
+    - assets/images/background.png
